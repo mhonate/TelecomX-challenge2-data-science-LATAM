@@ -1,4 +1,4 @@
-**Desafío Telecomo X** 
+**Desafío Telecom X** 
 
 **1.- Objetivo:**
 Telecom X - Análisis de Evasión de Clientes
@@ -10,6 +10,7 @@ Se deberá recopilar, procesar y analizar los datos, utilizando Python y sus pri
 **2.- Estructura del proyecto y organización de archivos**
 
 En el proyecto se desarrollará:
+
 ✅ Importación y manipulación de datos desde una API de forma eficiente.
 
 ✅ Aplicación de  conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
