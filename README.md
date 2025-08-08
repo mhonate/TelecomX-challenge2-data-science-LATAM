@@ -33,7 +33,7 @@ Sobre el servicio de internet se evaluó dado que por tipo de producto contratad
 
 **4.- Como acceder al notebook**
 Clonar o descargar el repositorio:
-git clone https://github.com/angelesGladin/TelecomX_latam.git
+[git clone https://github.com/angelesGladin/TelecomX_latam.git](https://github.com/mhonate/TelecomX-challenge2-data-science-LATAM/tree/main)
 
 Abrir el notebook Google Colab: abrir archivo: "TelecomX_LATAM (1).ipynb"
 
