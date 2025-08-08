@@ -20,14 +20,6 @@ En el proyecto se desarrollará:
 ✅ Un Análisis Exploratorio de Datos (EDA) y se deberá generar un informe con los insights relevantes obtenidos.
 
 
-1.-El proyecto se estructurá con una etapa de extracción de datos, los cuales se encuentran en: 
-📌 Enlace de la API: 
-
-🔗 challenge2-data-science-LATAM/TelecomX_Data.json at main · ingridcristh/challenge2-data-science-LATAM
-
-🔗GitHub - ingridcristh/challenge2-data-science-LATAM
-
-2.-Los datos se convertirán en un dataframe de Pandas para su manipulación
 
 
 **3.-Insights**
