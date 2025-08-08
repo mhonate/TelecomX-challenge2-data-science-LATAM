@@ -11,14 +11,21 @@ Se deberá recopilar, procesar y analizar los datos, utilizando Python y sus pri
 
 En el proyecto se desarrollará:
 ✅ Importación y manipulación de datos desde una API de forma eficiente.
+
 ✅ Aplicación de  conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
+
 ✅ Creación de visualizaciones estratégicas para identificar patrones y tendencias.
+
 ✅ Un Análisis Exploratorio de Datos (EDA) y se deberá generar un informe con los insights relevantes obtenidos.
+
 
 1.-El proyecto se estructurá con una etapa de extracción de datos, los cuales se encuentran en: 
 📌 Enlace de la API: 
+
 🔗 challenge2-data-science-LATAM/TelecomX_Data.json at main · ingridcristh/challenge2-data-science-LATAM
+
 🔗GitHub - ingridcristh/challenge2-data-science-LATAM
+
 2.-Los datos se convertirán en un dataframe de Pandas para su manipulación
 
 
