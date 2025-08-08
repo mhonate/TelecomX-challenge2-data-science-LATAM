@@ -22,12 +22,19 @@ En el proyecto se desarrollará:
 2.-Los datos se convertirán en un dataframe de Pandas para su manipulación
 
 
-
-
 **3.-Insights**
+Luego del análisis realizado se encuentran las siguientes definiciones:
+De acuerdo a este análisis se observa que los contratos mes a mes son los que tienen mayor evasión.
+El método de pagó electronic check es el que presenta una mayor evasion, dado porque es un pago que se realiza por parte del cliente en un momento determinado, esto comparado con los pagos automáticos es sustancialmente diferente.
+No hay diferencias entre hombres o mujeres en la evasión.
+Sobre el servicio de internet se evaluó dado que por tipo de producto contratado podría influir en la evasión.
 
 
 
+**4.- Como acceder al notebook**
+Clonar o descargar el repositorio:
+git clone https://github.com/angelesGladin/TelecomX_latam.git
 
+Abrir el notebook Google Colab: abrir archivo: "TelecomX_LATAM (1).ipynb"
 
-**4.- Como acceder a al notebook**
+Ejecutar todo el entorno o acceder secuencialmente para replicar el proceso.
